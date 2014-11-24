@@ -80,10 +80,11 @@ body {
   <tbody>
    <tr>
  <td colspan="2" align="center" > <img src="images/INVIPASTO_logo.jpg"  /> </td>
+ <td colspan="2" align="center" > <img src="images/INVIPASTO_logo.jpg"  /> </td>
  </tr>
 
      <tr>
-  <td align="right" colspan="2" class="shadetabs" > CONSULTAR ESTADO DE SOLLCITUDES </td> 
+  <td align="center" colspan="2" class="shadetabs" > CONSULTAR ESTADO DE SOLLCITUDES </td> 
   </tbody>
 </table>
 
